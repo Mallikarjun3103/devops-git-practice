@@ -1,1 +1,2 @@
-Login feature by Developer 1
+Payment feature by Developer 2
+
